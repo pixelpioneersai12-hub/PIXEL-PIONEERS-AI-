@@ -1,0 +1,14 @@
+{
+  "name": "Pixel Pioneers AI",
+  "short_name": "Pixel Pioneers",
+  "description": "A futuristic student career guidance companion.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070B1F",
+  "theme_color": "#070B1F",
+  "orientation": "any",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
